@@ -6,6 +6,7 @@ For the latest Scratch etc.: https://scratch.mit.edu/
 Edit install_scratch.sh to have the proper folders etc. In terminal, go to scratch folder. Then:
 
 chmod +x ./install_scratch.sh
+
 ./install_scratch.sh
 
 And follow popup instructions.
